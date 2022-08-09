@@ -1,4 +1,3 @@
-layout: page
 title: "飛象界"
 
 ## Welcome to GitHub Pages
