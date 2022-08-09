@@ -1,3 +1,6 @@
+layout: page
+title: "飛象界"
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/yhyang45/FeiXiangJie/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
